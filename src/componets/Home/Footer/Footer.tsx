@@ -2,7 +2,7 @@
 import React from 'react'
 import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa'
 import Link from 'next/link'
-import { FaX } from 'react-icons/fa6'
+
 
 const Footer = () => {
     return (

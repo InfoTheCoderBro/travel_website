@@ -1,4 +1,4 @@
-import { TiThListOutline } from "react-icons/ti";
+
 
 // Static Data
 export const destinationData = [
