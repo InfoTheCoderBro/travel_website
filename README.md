@@ -1,6 +1,7 @@
 ![image](https://github.com/user-attachments/assets/437c4d9f-8aff-43d4-8caf-d49adfa37b49)
 
-[![My Button](https://img.shields.io/badge/Click%20Here-Visit-blue)]([https://example.com](https://travel-website-amber-six.vercel.app/))
+[![My Button](https://img.shields.io/badge/Click%20Here-Visit-blue)](https://travel-website-amber-six.vercel.app/)
+
 
 
 
