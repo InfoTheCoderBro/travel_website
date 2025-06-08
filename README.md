@@ -1,8 +1,9 @@
 ![image](https://github.com/user-attachments/assets/437c4d9f-8aff-43d4-8caf-d49adfa37b49)
 
-<a href="https://travel-website-amber-six.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Click%20Here-Visit-blue" alt="Visit Site">
-</a>
+[![Visit Site](https://img.shields.io/badge/Click%20Here-Visit-blue)](https://travel-website-amber-six.vercel.app/)
+
+
+
 
 
 
